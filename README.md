@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🐍 IT, I´m Learning Programming Languages:
 I´m Learning Python Language
 
 
